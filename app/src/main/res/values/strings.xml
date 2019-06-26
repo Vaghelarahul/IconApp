@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ICONFINDER</string>
+    <string name="text_search">Search</string>
+
+    <string name="text_price">$ %s</string>
+    <string name="search_hint">Search icon here...</string>
+    <string name="downloading_text">Downloading...</string>
+
+
+    <string name="download_success">Downloaded Successfully.</string>
+    <string name="download_error">Failed to download icon</string>
+</resources>
